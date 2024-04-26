@@ -1,4 +1,4 @@
-# Ubuntu 20.04 rusty-kaspa build/install 
+# Ubuntu 22.04 rusty-kaspa build/install 
 ## If this is a fresh server/VPS, create a user, add user to sudo group, don't use root ;)!!
 ### The following are the exact steps you can use to build/setup/run your own linux rusty-kaspa node!!
 
