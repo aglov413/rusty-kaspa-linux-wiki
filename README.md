@@ -100,7 +100,7 @@ RestartSec=5
 [Install]
 WantedBy=multi-user.target
 ```
-### replace 'kaspa' with your username(User:kaspa and /home/kaspa) and edit necissary --settings 
+### replace 'kaspa' with your username(User:kaspa and /home/kaspa) and edit necessary --settings 
 
 # 12. enable & start Kaspa-Mainnet service
 ```
